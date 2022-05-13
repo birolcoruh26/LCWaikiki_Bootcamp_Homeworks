@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TPuqt+dWXK2+REHa12NHReOkjiO5WUZK7aRmBdf3PT6O3MZ75wLjDfXWVw0NAk0eP6RD041EbzkanTttYUiC2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\birol\\OneDrive\\Masaüstü\\yedekler\\birolcoruh-Homework2\\StoreApi_Ef\\EntityLayer\\EntityLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\birol\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

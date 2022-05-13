@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k2r8GmhVTUgT/KT0wSrOt1uD+NWus7Jk4L8TiESw8M/YNPbY33ulTIZLGRVhJ7IzRWZbfd/lvexvRlk/c4cIdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\birol\\OneDrive\\Masaüstü\\yedekler\\birolcoruh-Homework2\\StoreApi_Ef\\Dtos\\Dtos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\birol\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
